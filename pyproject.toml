@@ -1,0 +1,17 @@
+[project]
+name = "weather-tracker-api"
+version = "1.0.0"
+description = "A FastAPI-based weather tracking application with historical data storage"
+authors = [
+    { name = "Mehfooj", email = "mehfoojnew@gmail.com" }
+]
+dependencies = [
+    "fastapi>=0.68.0",
+    "uvicorn>=0.15.0",
+    "pydantic>=2.0.0",
+    "httpx>=0.24.0",
+    "python-dotenv>=0.19.0",
+    "supabase>=2.6.0",
+]
+requires-python = ">=3.8"
+

@@ -1,0 +1,8 @@
+Demo video showing the Weather Tracker API in action:
+[Insert your demo video link here]
+
+Key features demonstrated in the video:
+1. User registration and request submission
+2. Weather data fetching and storage
+3. Historical request retrieval
+4. Error handling and validation
