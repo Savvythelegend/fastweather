@@ -43,7 +43,7 @@ weather-app/
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/Savvythelegend/fastweather.git
    cd weather-tracker
    ```
 
